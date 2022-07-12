@@ -3,6 +3,9 @@ nav{
     text-align: center;
     color: aliceblue;
     height:50px;
+    display:flex;
+    align-items:center;
+    Justify-content:center;
 }
 ul{
     display:flex;
@@ -10,4 +13,5 @@ ul{
 li{
     text-decoration:none;
     list-style:none;
+    margine:10px;
 }
