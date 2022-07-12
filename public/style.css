@@ -2,4 +2,12 @@ nav{
     background-color: blue;
     text-align: center;
     color: aliceblue;
+    height:50px;
+}
+ul{
+    display:flex;
+}
+li{
+    text-decoration:none;
+    list-style:none;
 }
